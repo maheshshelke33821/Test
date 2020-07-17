@@ -7,7 +7,7 @@ public class Test
 		String name="Mahesh";
 		
 		if(!name.equals("Mahesh"))
-			System.out.println("true");
+			System.out.println("tru");
 		else
 			System.out.println("false");
 	}
